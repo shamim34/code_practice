@@ -56,6 +56,9 @@ for i in range(len(x_test)):
     print(res[i], ori[i])
 
 
+print(yhat)
+
+
 
 
 
